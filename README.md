@@ -7,7 +7,7 @@ The `FsAutoComplete` project (`FSAC`) provides a backend service for rich editin
 
 It can be hosted using the Language Server Protocol.
 
-Currently it is used by:
+Currently, it is used by:
 
 * [Emacs](https://github.com/fsharp/emacs-fsharp-mode)
 * [Neovim](https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md#fsautocomplete)
@@ -15,6 +15,8 @@ Currently it is used by:
 * [Visual Studio Code](https://github.com/ionide/ionide-vscode-fsharp)
 * [Sublime Text](https://lsp.sublimetext.io/language_servers/#f)
 * [Zed](https://github.com/nathanjcollins/zed-fsharp)
+* [Kate](https://kate-editor.org/) (out of the box)
+* [Flow-Control](https://flow-control.dev/) (out of the box)
 
 It's based on:
 
